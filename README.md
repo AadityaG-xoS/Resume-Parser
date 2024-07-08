@@ -14,6 +14,7 @@ Extracts and organizes information into structured JSON format.
 
 Customizable: 
 Easily customizable prompts and parsing rules to suit specific needs.
+
 Open Source: 
 Completely open source, encouraging community contributions and collaboration.
 
@@ -48,8 +49,7 @@ DOCX processing: python-docx
 Natural Language Processing: spaCy, NLTK
 Machine Learning: Transformers (Hugging Face)
 
-Prompt Engineering
-We use prompt engineering techniques to improve the accuracy of information extraction. This involves creating and refining prompts that guide the parser to identify and extract relevant details from the resumes.
+Prompt Engineering: We use prompt engineering techniques to improve the accuracy of information extraction. This involves creating and refining prompts that guide the parser to identify and extract relevant details from the resumes.
 
 # Architecture
 Input Module: Handles different resume formats and converts them into a processable form.
@@ -58,5 +58,4 @@ Parsing Module: Utilizes NLP and prompt engineering to extract structured inform
 
 Output Module: Formats the extracted data into JSON and handles integration with external systems.
 
-Customization
-Users can customize the prompts and parsing rules by modifying the configuration files. This allows the parser to be tailored to specific use cases or industries.
+Customization: Users can customize the prompts and parsing rules by modifying the configuration files. This allows the parser to be tailored to specific use cases or industries.
