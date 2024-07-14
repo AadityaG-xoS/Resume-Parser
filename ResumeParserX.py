@@ -1,4 +1,4 @@
-import fitz  
+import fitz
 from pdfminer.high_level import extract_text
 from docx import Document
 import spacy
